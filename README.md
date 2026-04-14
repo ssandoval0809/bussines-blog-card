@@ -47,5 +47,5 @@ Para ejecutar este proyecto de forma local, sigue estos pasos:
 
 ## ✒️ Autor
 
-* **Sara Sandoval** - Diseño
+* **Sara Sandoval** - Desarrollo
 * Proyecto basado en el reto de [devChallenges.io](https://www.devchallenges.io)
